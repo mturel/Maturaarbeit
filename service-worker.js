@@ -1,4 +1,4 @@
-var cacheName = 'renpy-web-game';
+var cacheName = 'marg-01';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
